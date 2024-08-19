@@ -10,9 +10,6 @@ import java.text.DecimalFormat;
 
 public class App {
 
-/**
- * @param args
- */
 public static void main(String[] args) {
     String caminhoArquivo = "/home/guilherme/Auladev/Aula2/arquivo_fornecido.csv";
     BufferedReader leitor = null;
